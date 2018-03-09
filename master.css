@@ -1,0 +1,37 @@
+body {
+  background-color: green;
+}
+
+.gabe {
+  height: 500px;
+  width: 350px;
+  border: 1px solid gray;
+  border-radius: 7px;
+  padding: 10px;
+  background-color: white;
+  margin: 20px;
+}
+
+.product-name {
+  font-size: 1.5em;
+  text-align: center;
+  /* font-weight: 700; */
+}
+
+.top-row {
+  padding: 20px;
+}
+
+.open-warning {
+  font-size: 2em;
+}
+
+.card {
+  height: 500px;
+  width: 350px;
+  margin: 20px;
+}
+
+.exp-card {
+  /* float: left; */
+}
